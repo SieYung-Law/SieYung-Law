@@ -1,4 +1,4 @@
-![Profile-banner](images/profile-banner.gif)
+![Profile-banner](images/profile_banner.gif)
 
 ### Hi there 👋
 
