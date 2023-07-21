@@ -1,4 +1,4 @@
-![Profile-banner](images/profile-banner.gif)  
+![Profile-banner](images/Profile-Banner.gif)  
 
 <!-- ABOUT ME -->
 ## 👋 About Me
