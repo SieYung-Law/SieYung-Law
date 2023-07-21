@@ -1,6 +1,4 @@
-<!--   ![Profile-banner](images/profile_banner.gif)   -->
-
-### Hi there 👋
+![Profile-banner](images/profile-banner.gif)  
 
 <!-- ABOUT ME -->
 ## 👋 About Me
@@ -15,13 +13,12 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | Data Manipulation  | [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] |
 | Data Visualization | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url] |
 | Machine Learning   | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] |
-| Web Framework      | [![Flask][Flask-badge]][Flask-url] |
 | Version Control    | [![Git][Git-badge]][Git-url] |
 | Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Google Colab][GoogleColab-badge]][GoogleColab-url] |
 
-<!-- CREDITS -->
+
 ## ©️ Credits
-<sup><small>Profile banner GIF based on the video by [Pressmaster]( https://www.pexels.com/video/digital-projection-of-the-earth-mass-in-blue-lights-3129957/) from Pexels</small></sup>
+<sup><small>Profile banner GIF based on the video by [Oleg Scherbak](https://www.pexels.com/video/dna-sequence-on-black-background-4741257/) from Pexels</small></sup>
 
 <!-- MARKDOWN LINKS -->
 [Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
